@@ -1,0 +1,19 @@
+# Visual Studio
+.vscode/
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Compiled binary
+*.exe
+*.dll
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.lib
+
+# Directories
+x64/
